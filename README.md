@@ -1,16 +1,18 @@
-## Hi there 👋
+# GitHub Username Changed
 
-<!--
-**akash-thakur0226/akash-thakur0226** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+This GitHub account is no longer actively maintained.
 
-Here are some ideas to get you started:
+My GitHub username has been changed to:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+➡️ https://github.com/akashhh-codes
+
+Please visit my new profile for:
+
+* Latest projects
+* Portfolio
+* Resume
+* Contributions
+
+Thank you for visiting!
+
+— Akash Chauhan
